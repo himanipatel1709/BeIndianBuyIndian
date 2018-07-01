@@ -1,0 +1,413 @@
+
+---Downloaded files---
+The import files for: Di Blog Demo Site were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/beindianbuyindian
+Data file = E:\xampp\htdocs\beindianbuyindian/wp-content/themes/di-blog/inc/ocdi/files/demo-content.xml
+Widget file = E:\xampp\htdocs\beindianbuyindian/wp-content/themes/di-blog/inc/ocdi/files/widgets.wie
+Customizer file = E:\xampp\htdocs\beindianbuyindian/wp-content/themes/di-blog/inc/ocdi/files/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "SampleVideo_720x480_5mb" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "SampleVideo_720x480_5mb" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "SampleVideo_720x480_5mb" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Home Page" (Navigation Menu Item)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Image - Image Widget - Imported
+Gallery - Gallery Widget - Imported
+Audio - Audio Widget - Imported
+Video - Video Widget - Imported
+Di Blog Social Profile - Social Profile - Imported
+Text - Text Widget - Imported
+Search - Search Website - Imported
+Recent Posts with Thumbnail - Recent Posts Thumb - Imported
+Categories - Categories - Imported
+Calendar - Calendar - Imported
+
+Page Sidebar : 
+
+Image - Image Widget - Imported
+Gallery - Gallery Widget - Imported
+Text - Text Widget - Imported
+Audio - Audio Widget - Imported
+Video - Video Widget - Imported
+Recent Posts - Recent Posts - Imported
+
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Image - Image Widget - Widget already exists
+Gallery - Gallery Widget - Widget already exists
+Audio - Audio Widget - Widget already exists
+Video - Video Widget - Widget already exists
+Di Blog Social Profile - Social Profile - Widget already exists
+Text - Text Widget - Widget already exists
+Search - Search Website - Widget already exists
+Recent Posts with Thumbnail - Recent Posts Thumb - Widget already exists
+Categories - Categories - Widget already exists
+Calendar - Calendar - Widget already exists
+
+Page Sidebar : 
+
+Image - Image Widget - Widget already exists
+Gallery - Gallery Widget - Widget already exists
+Text - Text Widget - Widget already exists
+Audio - Audio Widget - Widget already exists
+Video - Video Widget - Imported
+Recent Posts - Recent Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
+
+---pt-ocdi/after_import---
+
